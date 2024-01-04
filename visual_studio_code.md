@@ -1,0 +1,2 @@
+# extensions
+- Code Spell Checker
